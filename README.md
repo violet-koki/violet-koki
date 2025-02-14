@@ -6,7 +6,7 @@
 
 2. My favorites are Laravel, Vue.js
 
-3. You can find my Qiita at [here](https://)
+3. You can find my Qiita at [here](https://qiita.com/kk_yasu)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=violet-koki&show_icons=true&locale=en&layout=compact)
 
