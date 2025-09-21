@@ -4,7 +4,7 @@
 
 1. I'm a web frontend and backend developer from Japan
 
-2. My favorites are Laravel, Vue.js
+2. My favorites are PHP, TS.
 
 3. You can find my Qiita at [here](https://qiita.com/kk_yasu)
 
